@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanjai-AK47
 
-- 👀 I’m interested in ...Data science and python developer🧑🏻‍💻
-- 🌱 I’m currently learning ...java script
+- 👀 I’m interested in ...CyberSecurity and Ethical Hacking and python developer🧑🏻‍💻
+- 🌱 I’m currently learning ...CyberSEcurity and Ethical Hacking
 - 📫 How to reach me ...@MR_AK_PRINCE
 
 <!---
